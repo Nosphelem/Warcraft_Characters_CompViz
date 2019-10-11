@@ -15,4 +15,4 @@ The more convinient way to use this model is to import it on a new Google Collab
 (Your files are supposed to be in the /content/data/characters/... directories)
 
 ### -- TRIBUTES
-The things on this project were learned from the FastAI online courses (https://www.fast.ai) under the supervisition of my teacher M. DALLARD Benjamin (https://github.com/bdallard?tab=repositories).
+The things on this project were learned from the FastAI online courses (https://www.fast.ai) under the supervision of my teacher M. DALLARD Benjamin (https://github.com/bdallard?tab=repositories).
